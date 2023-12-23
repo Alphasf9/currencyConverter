@@ -13,4 +13,8 @@ function useCurrencyInfo(currency){
     return data
 }
 
+<<<<<<< HEAD
 export default useCurrencyInfo;
+=======
+export default useCurrencyInfo;
+>>>>>>> 669d099230eaa1c2f0efd6e68d132e19b12198fe
